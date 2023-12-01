@@ -46,7 +46,7 @@ You can add a podcast or music to a page by placing the MP3 file in the page's f
 Try it out:
 
 {{< audio src="ambient-piano.mp3" >}}
-{{< img src="featured.jpg" alt="这是一张图片" width="500" height="300" >}}
+{{< img src="me.jpg" alt="这是一张图片" >}}
 
 ## Test students
 
